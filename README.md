@@ -49,8 +49,8 @@ A fully responsive and interactive **Spotify 2.0 Clone** with enhanced features 
 
 ---
 
-## 2. Install Dependencies
+## Install Dependencies
 - npm install
 
-## 3. Start the Application
+## Start the Application
 - npm run dev
