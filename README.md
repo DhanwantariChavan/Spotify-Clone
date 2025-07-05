@@ -4,7 +4,7 @@ A fully responsive and interactive **Spotify 2.0 Clone** with enhanced features 
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  **Search Functionality** – Search songs, albums, artists, genres.
 -  **Music Player** – With play/pause, next/prev, volume control, repeat, full-screen player.
@@ -21,22 +21,22 @@ A fully responsive and interactive **Spotify 2.0 Clone** with enhanced features 
 ##  Screenshots
 
 ###  Home Page
-![Home](./screenshots/home.png)
+![Home](./screenshots/home.PNG)
 
 ###  Search Page
-![Search](./screenshots/search.png)
+![Search](./screenshots/search.PNG)
 
 ###  Create Playlist
-![Create Playlist](./screenshots/create_playlist.png)
+![Create Playlist](./screenshots/create_playlist.PNG)
 
 ###  Browse Podcasts
-![Podcasts](./screenshots/browse_podcast.png)
+![Podcasts](./screenshots/browse_podcast.PNG)
 
 ###  Explore Premium
-![Premium](./screenshots/explore_premium.png)
+![Premium](./screenshots/explore_premium.PNG)
 
 ###  Install App Option
-![Install App](./screenshots/install_app.png)
+![Install App](./screenshots/install_app.PNG)
 
 ---
 
