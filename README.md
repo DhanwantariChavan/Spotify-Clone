@@ -4,6 +4,8 @@ A fully responsive and interactive **Spotify 2.0 Clone** with enhanced features 
 
 ---
 
+##  Week 5 Work - Core Features Implemented
+
 ##  Features
 
 -  **Search Functionality** – Search songs, albums, artists, genres.
@@ -14,6 +16,12 @@ A fully responsive and interactive **Spotify 2.0 Clone** with enhanced features 
 -  **Explore Premium** – Visual section to promote Spotify Premium.
 -  **Install App Option** – For Progressive Web App support.
 -  **Sound On/Off** – Toggle mute and adjust volume levels.
+
+##  Week 6 Work - New Components Added
+
+- **My Playlist Component** – View user-created playlists in a personalized section.
+- **Liked Songs Component** – Shows all songs liked by the user.
+- **Discovered Songs Component** – Recommends newly discovered tracks.
 
 
 ---
