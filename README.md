@@ -46,6 +46,15 @@ A fully responsive and interactive **Spotify 2.0 Clone** with enhanced features 
 ###  Install App Option
 ![Install App](./screenshots/install_app.PNG)
 
+### My Playlist
+![My Playlist](./screenshots/my_playlist.PNG)
+
+### Liked Songs
+![Liked Songs](./screenshots/liked_songs.PNG)
+
+### Discovered Songs
+![Discovered Songs](./screenshots/discovered_songs.PNG)
+
 ---
 
 ##  Player Functionalities
