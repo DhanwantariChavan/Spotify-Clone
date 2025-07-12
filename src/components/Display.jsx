@@ -6,6 +6,9 @@ import { albumsData } from "../assets/assets"
 import CreatePlaylist from "./CreatePlaylist"
 import BrowsePodcasts from "./BrowsePodcasts"
 import Search from "./Search"
+import MyPlaylist1 from "./MyPlaylist1"
+import LikedSongs from "./LikedSongs"
+import DiscoverWeekly from "./DiscoverWeekly"
 
 const Display = () => {
   const displayRef = useRef();
@@ -31,6 +34,9 @@ const Display = () => {
             <Route path="/create-playlist" element={<CreatePlaylist />} />
             <Route path="/browse-podcasts" element={<BrowsePodcasts />} />
             <Route path="/search" element={<Search />} />
+            <Route path="/playlist/1" element={<MyPlaylist1/>}></Route>
+            <Route path="/playlist/2" element={<LikedSongs/>}></Route>
+            <Route path="/playlist/3" element={<DiscoverWeekly/>}></Route>
         </Routes>
     </div>
   )
